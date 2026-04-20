@@ -3,6 +3,11 @@
 [![pub package](https://img.shields.io/pub/v/pk_validators.svg)](https://pub.dev/packages/pk_validators)
 [![pub points](https://img.shields.io/pub/points/pk_validators)](https://pub.dev/packages/pk_validators/score)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Dart](https://img.shields.io/badge/Dart-3.0%2B-blue.svg)](https://dart.dev)
+[![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-green)](https://pub.dev/packages/pk_validators)
+
+> **The only Dart package you need for Pakistani identity validation.**
+> Validate CNICs, mobile numbers, and IBANs in one line of code.
 
 A lightweight, **zero-dependency**, pure-Dart package that validates and formats
 Pakistan-specific inputs: **CNIC numbers**, **mobile numbers**, and **IBANs**.
@@ -14,11 +19,11 @@ Android, Web, Windows, macOS, Linux).
 
 ## 📸 Screenshots
 
-| CNIC Validator | Mobile Validator |
+| 🪪 CNIC Validator | 📱 Mobile Validator |
 |:-:|:-:|
 | ![CNIC](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/cnic.png) | ![Mobile](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/mobile.png) |
 
-| IBAN Invalid | IBAN Valid |
+| 🏦 IBAN — Invalid Input | 🏦 IBAN — Valid Input |
 |:-:|:-:|
 | ![IBAN Invalid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_invalid.png) | ![IBAN Valid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_valid.png) |
 
@@ -59,8 +64,9 @@ One import. Done.
   extract bank code
 - 🔡 **String extensions** — ergonomic `.isValidPkCnic`, `.formatPkMobile`,
   `.pkMobileNetwork`, and more
-- **Zero runtime dependencies** — only `dart:core`
-- **Null-safe** — SDK `>=3.0.0`
+- ⚡ **Zero runtime dependencies** — only `dart:core`
+- 🔒 **Null-safe** — SDK `>=3.0.0`
+- 🧪 **41 tests** — fully tested, production ready
 
 ---
 
@@ -236,6 +242,17 @@ Pull requests are welcome! Please open an issue first for significant changes.
 3. Run tests: `dart test`
 4. Check analysis: `dart analyze`
 5. Submit PR
+
+---
+
+## 👨‍💻 Authors
+
+Built with ❤️ for the Pakistani Flutter community.
+
+| | Name | GitHub |
+|--|------|--------|
+| 👤 | **Mustafa Shahzad** | [@mustafashahzadd](https://github.com/mustafashahzadd) |
+| 👤 | **Abu Bakar** | — |
 
 ---
 
