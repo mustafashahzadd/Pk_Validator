@@ -21,11 +21,11 @@ Android, Web, Windows, macOS, Linux).
 
 | 🪪 CNIC Validator | 📱 Mobile Validator |
 |:-:|:-:|
-| ![CNIC](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/cnic.png) | ![Mobile](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/mobile.png) |
+| [![CNIC](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/cnic.png)](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/cnic.png) | [![Mobile](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/mobile.png)](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/mobile.png) |
 
 | 🏦 IBAN — Invalid Input | 🏦 IBAN — Valid Input |
 |:-:|:-:|
-| ![IBAN Invalid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_invalid.png) | ![IBAN Valid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_valid.png) |
+| [![IBAN Invalid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_invalid.png)](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_invalid.png) | [![IBAN Valid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_valid.png)](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_valid.png) |
 
 ---
 
