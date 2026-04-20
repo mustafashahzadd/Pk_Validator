@@ -1,0 +1,7 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    public_member_api_docs: true
+    require_trailing_commas: true
