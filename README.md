@@ -16,11 +16,11 @@ Android, Web, Windows, macOS, Linux).
 
 | CNIC Validator | Mobile Validator |
 |:-:|:-:|
-| ![CNIC](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/cnic.png) | ![Mobile](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/mobile.png) |
+| ![CNIC](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/cnic.png) | ![Mobile](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/mobile.png) |
 
 | IBAN Invalid | IBAN Valid |
 |:-:|:-:|
-| ![IBAN Invalid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/iban_invalid.png) | ![IBAN Valid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/iban_valid.png) |
+| ![IBAN Invalid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_invalid.png) | ![IBAN Valid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/Screenshots/iban_valid.png) |
 
 ---
 
