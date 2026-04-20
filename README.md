@@ -12,6 +12,18 @@ Android, Web, Windows, macOS, Linux).
 
 ---
 
+## 📸 Screenshots
+
+| CNIC Validator | Mobile Validator |
+|:-:|:-:|
+| ![CNIC](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/cnic.png) | ![Mobile](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/mobile.png) |
+
+| IBAN Invalid | IBAN Valid |
+|:-:|:-:|
+| ![IBAN Invalid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/iban_invalid.png) | ![IBAN Valid](https://raw.githubusercontent.com/mustafashahzadd/Pk_Validator/main/screenshots/iban_valid.png) |
+
+---
+
 ## 🤔 Why this package?
 
 Every Pakistani Flutter developer ends up writing the same 30 lines of
