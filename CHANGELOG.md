@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Made screenshots clickable in README.
+
 ## 0.1.1
 
 - Improved README with screenshots, authors section, and additional badges.

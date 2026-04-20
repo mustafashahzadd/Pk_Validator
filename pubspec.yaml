@@ -2,7 +2,7 @@ name: pk_validators
 description: >-
   Validate and format Pakistan-specific inputs: CNIC numbers, mobile numbers,
   and IBANs. Zero dependencies, pure Dart, works on all 6 platforms.
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/mustafashahzadd/Pk_Validator
 repository: https://github.com/mustafashahzadd/Pk_Validator
 issue_tracker: https://github.com/mustafashahzadd/Pk_Validator/issues
